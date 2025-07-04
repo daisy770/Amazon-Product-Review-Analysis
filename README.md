@@ -9,4 +9,16 @@ The primary source of Data used here is Amazon Case Study data and this is an op
 The dataset contains 1,465 rows and 16 columns, with information on :
 - Product details: name, category, price, discount, and ratings
 - Customer engagement : user reviews, titles, and content
-### Analysis Tasks 
+### Analysis TasksProducts with highest number of reviews
+The project involves analyzing the dataset to answer some key questions about the data including:
+- Average discount percentage by product category
+- Number of products per category
+- Total number of reviews per category
+- Products with highest average ratings
+- Average actual price vs discounted price by category
+- Products with highest number of reviews
+- Total potential revenue by category
+- Number of unique products per price range bucket
+- Relationships between rating and discount
+- Products with fewer than 1,000 reviews
+- Top 5 products by rating and review count
