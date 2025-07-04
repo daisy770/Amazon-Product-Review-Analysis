@@ -5,6 +5,7 @@ This project Analyzes Amazon product review data to create an understanding for 
 The primary source of Data used here is Amazon Case Study data and this is an open source data that can be freely downloaded from an open source online or any other data repository site.
 ### Tools used
 - Ms Excel
+- Pivot tables
 ### Description Of Dataset
 The dataset contains 1,465 rows and 16 columns, with information on :
 - Product details: name, category, price, discount, and ratings
@@ -23,6 +24,7 @@ The project involves analyzing the dataset to answer some key questions about th
 - Products with fewer than 1,000 reviews
 - Top 5 products by rating and review count
   ### Analysis
+  
 
 
   
