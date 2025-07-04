@@ -22,3 +22,8 @@ The project involves analyzing the dataset to answer some key questions about th
 - Relationships between rating and discount
 - Products with fewer than 1,000 reviews
 - Top 5 products by rating and review count
+  ### Analysis
+
+
+
+  
