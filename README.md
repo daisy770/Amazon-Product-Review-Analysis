@@ -10,6 +10,13 @@ The primary source of Data used here is Amazon Case Study data and this is an op
 The dataset contains 1,465 rows and 16 columns, with information on :
 - Product details: name, category, price, discount, and ratings
 - Customer engagement : user reviews, titles, and content
+### Data cleaning
+- Handling missing values by imputing values or removing rows with missing data.
+- scaling numeric data to a common range.
+- Converting data types or format.
+### Dashboard  Creation
+- Bar Charts: Product counts by category
+- Pie charts: Number of product per price bucket
 ### Analysis TasksProducts with highest number of reviews
 The project involves analyzing the dataset to answer some key questions about the data including:
 - Average discount percentage by product category
@@ -49,4 +56,9 @@ The project involves analyzing the dataset to answer some key questions about th
 ![picture 11](https://github.com/user-attachments/assets/b7388f17-1a7a-4dd9-8a71-c1c657a332a4)
 
 ![picture 12](https://github.com/user-attachments/assets/3765fc46-f9a4-4c1c-a086-b0d1af24d631)
+### Key learnings
+- Product performance
+- Category Performance
+- Customer engagement
+  
 
