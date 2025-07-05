@@ -24,21 +24,22 @@ The project involves analyzing the dataset to answer some key questions about th
 - Products with fewer than 1,000 reviews
 - Top 5 products by rating and review count
   ### Analysis
+![picture 1](https://github.com/user-attachments/assets/74dedd88-3290-4e36-b0b8-f65410e3ea0c)
 
+![picture 2](https://github.com/user-attachments/assets/6492c9a5-c203-4054-a8b6-2ce533b39bef)
 
+![picture 3](https://github.com/user-attachments/assets/fd646db4-98ae-46ff-93f9-8ad358bf4d70)
 
-  
-  
+ ![picture 4](https://github.com/user-attachments/assets/17a6a7ad-0abe-4406-a8ae-6f36ab588122)
+ 
+ ![picture 5](https://github.com/user-attachments/assets/41640228-df9c-4c45-b712-8fe651970307)
 
+![picture 6](https://github.com/user-attachments/assets/2ce516e6-578e-487c-b6d9-9ffb77f9f830)
 
-  
+![picture 7](https://github.com/user-attachments/assets/85975e3b-1514-42eb-ad15-1b68725d5efe)
 
+![picture 8](https://github.com/user-attachments/assets/fdb99338-2a6e-4eb3-b39d-0482d31c0254)
 
-  
+![picture 9](https://github.com/user-attachments/assets/94fcc560-d62a-4a41-b86c-02fa8413fa66)
 
-
-  
-
-
-
-  
+![picture 10](https://github.com/user-attachments/assets/f3660052-18d0-4037-8cfa-ec44ce303bfe)
